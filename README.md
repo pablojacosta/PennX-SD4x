@@ -1,6 +1,9 @@
 # PennX-SD4x
 PennX SD4x: Programming for the Web with JavaScript
 
+Exercise 2: 
+Implement JavaScript functions for Pet Store.
+
 Exercise 3:
 Develop a calculator app using JavaScript and jQuery.
 
